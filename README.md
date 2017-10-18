@@ -7,10 +7,11 @@ From this start site there's a collection of sub-pages directing to different pr
 
 #### Science
 * Science
-* [TimeSeries Analysis](url)
-* [Other](url)
+* [TimeSeries Analysis](https://github.com/KleinhansDa/Notebooks/blob/master/DA-TimeSeries_singles_count.nb.html)
+* [Other](https://kleinhansda.github.io/Notebooks/SN120_TrackMate.nb.html)
 
 #### Private
+* 
 
 ### Favorite Quotes
 [Link](url)
