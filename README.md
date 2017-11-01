@@ -1,5 +1,5 @@
 ## Notebooks
-============
+
 ![Image](src)
 
 ### Science
@@ -15,9 +15,9 @@
 * Other
 
 ## Favorite Quotes
-==============
+ 
 [Link](url)
 
 ## Curriculum Vitae
-==============
+
 * LinkedIn
