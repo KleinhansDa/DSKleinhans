@@ -1,24 +1,20 @@
-## Welcome to my github page 
-
-A collection of pages showing different projects of mine
-  
-### Books
+## Notebooks
 ![Image](src)
 
-#### Science
+### Science
 * [PhD project](https://kleinhansda.github.io/DSKleinhans/SN120_TrackMate.nb.html)
 * [fish larvae mounting](https://kleinhansda.github.io/DSKleinhans/SN120_TrackMate.nb.html)
 * [SN120-1](https://kleinhansda.github.io/DSKleinhans/SN120_TrackMate.nb.html)
 * [Dynamic Time Warping](https://kleinhansda.github.io/DSKleinhans/DA-TimeSeries_DTW.nb.html)
 * [time series analysis](https://kleinhansda.github.io/DSKleinhans/DA-TimeSeries_singles_count.nb.html)
 
-#### Private
+### Private
 * Beer
 * Bikes
 * Other
 
-### Favorite Quotes
+## Favorite Quotes
 [Link](url)
 
-### Curriculum Vitae
+## Curriculum Vitae
 * LinkedIn
