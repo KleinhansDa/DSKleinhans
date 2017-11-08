@@ -1,5 +1,6 @@
-## Notebooks
 ![Image](https://kleinhansda.github.io/DSKleinhans/me.jpg)
+
+## Notebooks
 
 ### Science
 * [PhD project](https://kleinhansda.github.io/DSKleinhans/SN120_TrackMate.nb.html)
