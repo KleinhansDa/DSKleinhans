@@ -13,7 +13,7 @@
 * [ImageJ Macros](https://github.com/KleinhansDa/DSK_IJ_Macros)
 
 ### Private
-* [Beer](www.hannesbräu.de)
+* [Beer](https://relaxed-jepsen-68f3a6.netlify.com/)
 * Bikes
 * Other
 
