@@ -13,7 +13,7 @@
 * [ImageJ Macros](https://github.com/KleinhansDa/DSK_IJ_Macros)
 
 ### Private
-* Beer
+* [Beer](www.hannesbräu.de)
 * Bikes
 * Other
 
