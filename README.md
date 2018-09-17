@@ -16,9 +16,7 @@
 * [Beer](https://relaxed-jepsen-68f3a6.netlify.com/)
 * Bikes
 * Other
-
-## Favorite Quotes
-* [Link](url)
+* [Favorite Quotes](https://docs.google.com/document/d/1ebgXg--rgaO_yHgDg_n-Z7z-cX9ZN1cccFfWtERZ0SE/edit?usp=sharing)
 
 ## Curriculum Vitae
 * [LinkedIn](https://www.linkedin.com/in/david-simon-kleinhans-2bab5463/)
