@@ -1,5 +1,3 @@
-![Image](https://kleinhansda.github.io/DSKleinhans/me.jpg)
-
 ## Lab
 + [webpage](lecaudeylab.netlify.com)
 
