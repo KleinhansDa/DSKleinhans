@@ -1,6 +1,7 @@
 ![Image](https://kleinhansda.github.io/DSKleinhans/me.jpg)
 
-## Notebooks
+## Lab
++ [webpage](lecaudeylab.netlify.com)
 
 ### Science
 * [PhD project](https://kleinhansda.github.io/DSKleinhans/SN120_TrackMate.nb.html)
@@ -13,7 +14,7 @@
 * [ImageJ Macros](https://github.com/KleinhansDa/DSK_IJ_Macros)
 
 ### Private
-* [Beer](https://relaxed-jepsen-68f3a6.netlify.com/)
+* [Beer](www.hannesbru.de)
 * Bikes
 * Other
 * [Favorite Quotes](https://docs.google.com/document/d/1ebgXg--rgaO_yHgDg_n-Z7z-cX9ZN1cccFfWtERZ0SE/edit?usp=sharing)
