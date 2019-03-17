@@ -1,4 +1,4 @@
 Title: summary
 theme: jekyll-theme-minimal
-logo: url(https://kleinhansda.github.io/DSKleinhans/me.jpg)
+logo: url("kleinhansda.github.io/DSKleinhans/me.jpg")
 show_downloads: true
